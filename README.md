@@ -13,8 +13,8 @@ Hehe
                 border: 2px solid #000;
             }
             .square {
-                width: 100px;
-                height: 100px;
+                width: 150px;
+                height: 150px;
                 display: flex;
                 align-items: center;
                 justify-content: center;
